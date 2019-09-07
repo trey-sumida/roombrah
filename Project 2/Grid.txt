@@ -1,0 +1,23 @@
+30 22
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+w       w                    w
+w    d  w                    w
+w       w         w          w
+w   wwwww         w    d     w
+w                 w          w
+w                 w          w
+w                 w          w
+w                            w
+w            d               w
+w                            w
+w          d                 w
+w                            w
+w    wwwwwww                 w
+w                wwwww   wwwww 
+w                w           w
+w                w   d       w
+w   d            wwwwwwwww   w
+w                w           w
+w           d    w    d      w
+w                w           w
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwww
